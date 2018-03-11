@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: rev1_16mil.PcbDoc   11/3/2018  18:37:46
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : rev1_16mil.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          2                0.21 Inch (5.24 mm)
+T2        35.43mil (0.89992mm)     Round          14               2.95 Inch (74.94 mm)
+---------------------------------------------------------------------------
+Totals                                            16               3.16 Inch (80.18 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
